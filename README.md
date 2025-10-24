@@ -57,7 +57,7 @@ When you open the plugin with this file, you will see a menu with these options:
 
 ## Installation
 
-1. Download the latest booknotes.koplugin.zip file.
+1. [Download](https://github.com/0zd3m1r/koreader-booknotes-plugin/archive/refs/heads/main.zip) the latest booknotes.koplugin.zip file.
 2. Extract the zip file. You should now have a booknotes.koplugin folder.
 3. Copy this entire booknotes.koplugin folder to your KOReader's plugins directory. (This is usually at koreader/plugins/).
 4. Restart KOReader.
