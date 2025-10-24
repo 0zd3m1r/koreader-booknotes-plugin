@@ -268,7 +268,9 @@ function BookNotes:showSectionText(title, text)
         input_type = "text",
         text_height = Screen:getHeight() * 0.7,
         fullscreen = true,
-        readonly = true, -- Read-only mode
+        readonly = true,
+        cursor_at_end = false,
+        scroll_to_bottom = false,
         buttons = {
             {
                 {
@@ -313,4 +315,5 @@ function BookNotes:showFullNoteContent(filepath)
 end
 
 -- Return the plugin class
+
 return BookNotes
